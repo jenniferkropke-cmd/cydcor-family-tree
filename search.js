@@ -5,7 +5,7 @@ const f=document.getElementById('typeFilter');
 const out=document.getElementById('searchResults');
 const count=document.getElementById('resultCount');
 
-fetch('assets/search-data.json').then(r=>r.json()).then(d=>{DATA=d; render();});
+fetch('search-data.json').then(r=>r.json()).then(d=>{DATA=d; render();});
 
 function render(){
   const term=(q.value||'').trim().toLowerCase();
