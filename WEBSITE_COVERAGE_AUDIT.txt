@@ -1,0 +1,19 @@
+CYDCOR WEBSITE COVERAGE AUDIT — 2026-09-06
+
+CURRENT PUBLIC-INDEX PROBLEM
+The prior website search-data.json contained 21 summary entries.
+
+SOURCE AUDIT USED FOR V3
+1. Master Investigation Index (Sept. 3): 75 indexed entities/brands, 36 relationships, 7 address hubs.
+2. Final 256-page binder (Sept. 6): 35 curated dossiers, including upgrades/corrections after the Sept. 3 index.
+3. Post-index research: Clear Vision, Riverfront, 5 North/North, First Coast, Jordan Mitchell Group, 3MP Atlanta, C-Bus Voyage, LJC Business Partners, Jonathan Wesley, OSP correction, and other dossier refinements.
+4. Current GitHub website: compared against the above to identify omissions.
+
+V3 SEARCH COVERAGE
+Entity/company/identity records: 84
+Address hubs: 8
+Relationship/continuity records: 49
+Total searchable records: 141
+
+IMPORTANT
+This index intentionally includes CONFIRMED, STRONG, PROBABLE, OPEN, RESEARCH LEAD, FILING INFRASTRUCTURE, ASSUMED NAME, IDENTITY CONTINUITY, and corrected/misclassified nodes. Inclusion means 'researched', not 'proven to be a Cydcor child company.'
