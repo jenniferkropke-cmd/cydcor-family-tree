@@ -1,0 +1,88 @@
+<!doctype html>
+<html lang="en">
+<head>
+<meta charset="utf-8"><meta name="viewport" content="width=device-width,initial-scale=1">
+<title>Share Your Experience — The Cydcor Family Tree</title>
+<link rel="stylesheet" href="assets/styles.css">
+</head>
+<body>
+<header class="site-header"><div class="wrap nav-wrap">
+<a class="brand" href="index.html">THE CYDCOR FAMILY TREE</a>
+<nav><a href="index.html">Home</a><a href="research-index.html">Search</a><a href="share.html">Share Your Experience</a></nav>
+</div></header>
+<main>
+<section class="page-hero"><div class="wrap">
+<p class="eyebrow">COMMUNITY SUBMISSIONS</p>
+<h1>Share what you experienced.</h1>
+<p class="lede">Firsthand accounts can add context, reveal missing branches, or correct the public record. Submissions are not published automatically.</p>
+</div></section>
+
+<section class="section"><div class="wrap form-layout">
+<div class="form-intro">
+<h2>Before you submit</h2>
+<p>Please share only information you are comfortable providing. Do not submit Social Security numbers, banking details, passwords, private medical information, or other highly sensitive personal data.</p>
+<p><strong>Moderation rule:</strong> A submission is treated as a firsthand account unless supporting documentation independently verifies the claim. Allegations about identifiable people should not be published as fact without corroboration.</p>
+<p>Anonymous or pseudonymous submissions are welcome. If you provide contact information, it should be used only to follow up unless you explicitly consent to publication.</p>
+</div>
+
+<form name="community-submission" method="POST" data-netlify="true" netlify-honeypot="bot-field" enctype="multipart/form-data" class="submission-form">
+<input type="hidden" name="form-name" value="community-submission">
+<p class="hidden"><label>Do not fill this out: <input name="bot-field"></label></p>
+
+<label>Submission type
+<select name="submission_type" required>
+<option value="">Choose one</option>
+<option>Firsthand experience</option>
+<option>Correction to the website</option>
+<option>New company / branch lead</option>
+<option>Document / archive lead</option>
+<option>Right of reply</option>
+</select></label>
+
+<label>Name or alias
+<input name="name_or_alias" placeholder="You may use an alias"></label>
+
+<label>Email for follow-up
+<input type="email" name="email" placeholder="Optional"></label>
+
+<label>Company / office name
+<input name="company" required></label>
+
+<div class="field-row">
+<label>City / state
+<input name="location"></label>
+<label>Approximate dates
+<input name="dates" placeholder="e.g. 2017–2018"></label>
+</div>
+
+<label>Your role or relationship
+<input name="role" placeholder="Employee, owner, recruiter, client, family member, etc."></label>
+
+<label>People you worked with or remember
+<textarea name="people" rows="3"></textarea></label>
+
+<label>Campaigns / clients / products you remember
+<textarea name="campaigns" rows="3"></textarea></label>
+
+<label>Your experience or correction
+<textarea name="experience" rows="10" required placeholder="Tell the story in your own words. Specific dates, offices, job titles, managers, moves, promotions, and company names are especially useful."></textarea></label>
+
+<label>Evidence or documentation
+<input type="file" name="evidence" multiple>
+<small>Examples: offer letters, pay stubs with sensitive numbers redacted, old screenshots, company emails, archived flyers, business cards, photos of office signage, or public links.</small></label>
+
+<fieldset>
+<legend>Publication permission</legend>
+<label class="check"><input type="checkbox" name="contact_permission"> You may contact me for follow-up.</label>
+<label class="check"><input type="checkbox" name="quote_permission"> You may quote my submission publicly after review.</label>
+<label class="check"><input type="checkbox" name="anonymous_publication"> If published, use my alias / keep my identity private.</label>
+</fieldset>
+
+<label id="correction">What page or finding are you correcting? <input name="finding_reference"></label>
+
+<button class="btn primary submit-btn" type="submit">Send for review</button>
+<p class="micro darktext">This form is configured for Netlify Forms. If you host elsewhere, connect it to Formspree, Supabase, Airtable, or another submission backend before launch.</p>
+</form>
+</div></section>
+</main>
+</body></html>

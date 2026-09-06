@@ -1,0 +1,149 @@
+[
+  {
+    "type": "Backbone",
+    "name": "John Wiggins / Black Diamond Advertising",
+    "location": "Miami / Atlanta",
+    "grade": "Confirmed hub; upstream open",
+    "keywords": "Wiggins Black Diamond Miami 2263 NE 164th Brandie Park"
+  },
+  {
+    "type": "Backbone",
+    "name": "Brandie Park \u2192 Michael Sessions",
+    "location": "Atlanta / Charlotte",
+    "grade": "Confirmed in archive",
+    "keywords": "Brandie Park Michael Sessions Sean Clark Marketing Sessions"
+  },
+  {
+    "type": "Backbone",
+    "name": "Michael Sessions \u2192 Cody Staton / TRIEC",
+    "location": "Chicago",
+    "grade": "Strong / near-confirmed",
+    "keywords": "Sessions Staton TRIEC 9450 Bryn Mawr suite overlap"
+  },
+  {
+    "type": "Backbone",
+    "name": "TRIEC \u2192 Michael Lefeld / The League Global",
+    "location": "Chicago / Itasca",
+    "grade": "Confirmed / very strong",
+    "keywords": "TRIEC Lefeld M4I North 312 League Global"
+  },
+  {
+    "type": "Backbone",
+    "name": "The League Global \u2192 Thomas Watson / Paletta",
+    "location": "Itasca, Illinois",
+    "grade": "Confirmed",
+    "keywords": "League Global Thomas Watson Paletta Consulting"
+  },
+  {
+    "type": "Illinois",
+    "name": "600 Hunter Dr #250 launch hub",
+    "location": "Oak Brook, Illinois",
+    "grade": "Confirmed hub",
+    "keywords": "Keynorth Rebecca Blatz MCS2 Michael Sessions Midwest Client Consultants Shaine Thurman Chicago Business Strategies"
+  },
+  {
+    "type": "Illinois",
+    "name": "1211 W 22nd St #905 launch hub",
+    "location": "Oak Brook, Illinois",
+    "grade": "Strong structural hub",
+    "keywords": "Keynorth Chicago Business Strategies Three Point Stevan Ivanisevic Quill"
+  },
+  {
+    "type": "Side Branch",
+    "name": "Brandie / AGI \u2192 South \u2192 Cape Reserve",
+    "location": "Southeast U.S.",
+    "grade": "Strong",
+    "keywords": "Hannah Hoffman South Justin Hageman Cape Reserve"
+  },
+  {
+    "type": "Side Branch",
+    "name": "5 North / North \u2192 Patricia Graells \u2192 Ibericus",
+    "location": "New York",
+    "grade": "Strong / near-confirmed",
+    "keywords": "5 North North Inc Patricia Graells Ibericus Cydcor"
+  },
+  {
+    "type": "Side Branch",
+    "name": "Gateway \u2192 Daniel Giannone \u2192 W1N",
+    "location": "Ohio / Georgia",
+    "grade": "Strong",
+    "keywords": "Gateway Daniel Giannone W1N Sales"
+  },
+  {
+    "type": "Side Branch",
+    "name": "W1N \u2192 Caylie Surrena \u2192 Trinity Results",
+    "location": "Georgia",
+    "grade": "Strong / near-placed",
+    "keywords": "W1N Caylie Surrena Trinity Results 1145 Zonolite"
+  },
+  {
+    "type": "Side Branch",
+    "name": "3MP Atlanta \u2192 William Ryckman \u2192 Ryckatyk",
+    "location": "Atlanta / Raleigh",
+    "grade": "Strong / near-confirmed",
+    "keywords": "3MP William Ryckman Ryckatyk"
+  },
+  {
+    "type": "Side Branch",
+    "name": "C-Bus Voyage \u2192 Kevin Fuller \u2192 ICON Sales Team",
+    "location": "Columbus / Atlanta",
+    "grade": "Strong",
+    "keywords": "C-Bus Voyage Kevin Fuller ICON Sales Team 1145 Zonolite"
+  },
+  {
+    "type": "Side Branch",
+    "name": "Joseph Gills / Integra \u2192 Meghan Wilson \u2192 Wolf Management",
+    "location": "St. Louis / Charlotte",
+    "grade": "Confirmed principal; strong downstream",
+    "keywords": "Joseph Gills Integra Meghan Wilson Wolf Management"
+  },
+  {
+    "type": "Side Branch",
+    "name": "Evolution Sales \u2192 Jonah Mead-Vancort \u2192 First Coast Sales Group",
+    "location": "Atlanta / Jacksonville",
+    "grade": "Confirmed downstream",
+    "keywords": "Evolution Sales Jonah Mead Vancort First Coast"
+  },
+  {
+    "type": "Continuity",
+    "name": "Walker Marketing \u2192 524 Executives",
+    "location": "Ohio",
+    "grade": "Identity continuity",
+    "keywords": "Walker Marketing Brandon Walker 524 Executives"
+  },
+  {
+    "type": "Continuity",
+    "name": "Broad Street / Philadelphia Marketing Executives \u2192 Jordan Mitchell Group",
+    "location": "Blue Bell, Pennsylvania",
+    "grade": "Identity continuity / probable successor",
+    "keywords": "Broad Street Philadelphia Marketing Executives Jordan Mitchell Group"
+  },
+  {
+    "type": "Open",
+    "name": "Banquet Executives / Peyton Timmermeyer",
+    "location": "Illinois / Missouri / Atlanta",
+    "grade": "Parent open",
+    "keywords": "Banquet Executives Peyton Timmermeyer Amazon Business"
+  },
+  {
+    "type": "Open",
+    "name": "GES Consulting Enterprise",
+    "location": "Washington",
+    "grade": "Directional; parent open",
+    "keywords": "GES Brian Lee Seattle Woodinville Cydcor Comcast Xfinity"
+  },
+  {
+    "type": "Open",
+    "name": "C3 Orlando",
+    "location": "Orlando, Florida",
+    "grade": "Unplaced",
+    "keywords": "C3 Orlando direct marketing donor acquisition"
+  },
+  {
+    "type": "Parallel / overlap",
+    "name": "One Source Provider (OSP)",
+    "location": "Dearborn, Michigan",
+    "grade": "Strong Cydcor personnel overlap; parentage open",
+    "keywords": "One Source Provider OSP Dean Elali Larissa Lawson Cydcor"
+  }
+]
