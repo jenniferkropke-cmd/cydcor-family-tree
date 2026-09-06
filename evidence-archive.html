@@ -1,0 +1,85 @@
+<!doctype html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width,initial-scale=1">
+<title>Evidence Archive — The Cydcor Family Tree</title>
+<meta name="description" content="Browse the evidence packets behind the Cydcor Family Tree research: filings, archived posts, business records, interviews, and address evidence.">
+<link rel="stylesheet" href="styles.css">
+<style>
+.archive-hero{padding:72px 0 44px;background:linear-gradient(135deg,#082838,#124a5f);color:white}
+.archive-hero .eyebrow{color:#8ed4e3}
+.archive-hero h1{max-width:900px;margin:.2em 0}
+.archive-hero .lede{max-width:850px;color:#e3eef2}
+.download-strip{display:grid;grid-template-columns:repeat(auto-fit,minmax(260px,1fr));gap:16px;margin-top:26px}
+.download-card{background:white;color:#082838;border-radius:14px;padding:18px;box-shadow:0 10px 30px rgba(0,0,0,.12)}
+.download-card h3{margin-top:0}
+.archive-controls{display:grid;grid-template-columns:2fr 1fr 1fr;gap:12px;margin:22px 0}
+.archive-controls input,.archive-controls select{width:100%;padding:12px 14px;border:1px solid #cbd8df;border-radius:10px;background:#fff}
+.evidence-card{border-left:4px solid #19738A}
+.evidence-pill{display:inline-block;background:#eef5f7;border:1px solid #d2e2e8;border-radius:999px;padding:4px 8px;margin:2px 3px 2px 0;font-size:.78rem}
+.actions.compact{margin-top:14px}
+@media(max-width:800px){.archive-controls{grid-template-columns:1fr}}
+</style>
+</head>
+<body>
+<header class="site-header">
+  <div class="wrap nav-wrap">
+    <a class="brand" href="index.html">THE CYDCOR FAMILY TREE</a>
+    <nav>
+      <a href="index.html">Home</a>
+      <a href="research-index.html">Search Everything</a>
+      <a href="evidence-archive.html" aria-current="page">Evidence Archive</a>
+      <a href="downloads.html">Downloads</a>
+      <a href="share.html">Share Your Experience</a>
+    </nav>
+  </div>
+</header>
+
+<main>
+<section class="archive-hero">
+  <div class="wrap">
+    <p class="eyebrow">SOURCE MATERIAL + EXHIBIT PACKETS</p>
+    <h1>Browse the receipts behind the research.</h1>
+    <p class="lede">This archive points directly into the 256-page evidence binder by company or branch. It includes corporate filings, business records, archived social posts, first-person interviews, career records, regulatory filings, address evidence, and the project's documented corrections and open questions.</p>
+    <div class="download-strip">
+      <article class="download-card">
+        <h3>Updated Research Report</h3>
+        <p>The readable narrative integrating findings through September 6, 2026.</p>
+        <a class="btn primary" href="Cydcor_Family_Tree_Research_Report_UPDATED_2026-09-06.pdf" download>Download research report</a>
+      </article>
+      <article class="download-card">
+        <h3>Full Evidence Binder</h3>
+        <p>256 pages of branch dossiers, filings, screenshots, source exhibits, and evidence controls.</p>
+        <a class="btn primary" href="Cydcor_Final_Investigation_Binder_2026-09-06.pdf" download>Download evidence binder</a>
+      </article>
+    </div>
+  </div>
+</section>
+
+<section class="section">
+  <div class="wrap">
+    <p class="eyebrow">BROWSE BY COMPANY, PERSON, BRANCH, OR EVIDENCE TYPE</p>
+    <h2>Evidence packet index</h2>
+    <p class="section-intro">Opening a packet jumps to the relevant starting page inside the full evidence binder. Evidence status is preserved exactly so an archive entry does not imply that every relationship is confirmed.</p>
+    <div class="archive-controls">
+      <input id="evidenceSearch" type="search" placeholder="Try: Brindle, Samantha Jackson, 1145 Zonolite, Quill, OSP…">
+      <select id="sectionFilter"><option value="">All sections</option></select>
+      <select id="typeFilter"><option value="">All evidence types</option></select>
+    </div>
+    <p id="evidenceCount" class="micro darktext"></p>
+    <div id="evidenceResults" class="search-results"></div>
+  </div>
+</section>
+
+<section class="section alt">
+  <div class="wrap">
+    <p class="eyebrow">HOW TO READ THE ARCHIVE</p>
+    <h2>Evidence packet ≠ proven lineage.</h2>
+    <p class="section-intro">Corporate filings establish legal identities, dates, officers, and addresses. Archived posts can establish employment or management roles. Address overlap can corroborate a handoff. Filing-service overlap is a discovery clue. Each packet explains what the source proves and what it does not.</p>
+  </div>
+</section>
+</main>
+<script src="evidence.js"></script>
+</body>
+</html>

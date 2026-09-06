@@ -1,0 +1,465 @@
+[
+  {
+    "section": "Master Backbone",
+    "title": "Main Backbone Overview",
+    "pages": "14\u201317",
+    "start": 14,
+    "status": "Control overview",
+    "types": [
+      "Lineage map",
+      "evidence matrix",
+      "timeline"
+    ],
+    "keywords": "Wiggins Brandie Sessions Staton Lefeld League Paletta main backbone"
+  },
+  {
+    "section": "Master Backbone",
+    "title": "Historical Root & Wiggins Upstream",
+    "pages": "18\u201327",
+    "start": 18,
+    "status": "Open upstream / documented root",
+    "types": [
+      "contracts",
+      "corporate filings",
+      "address records",
+      "research leads"
+    ],
+    "keywords": "DS-Max Avie Roth Cydcor Miami 2263 Wiggins"
+  },
+  {
+    "section": "Master Backbone",
+    "title": "Wiggins \u2192 Brandie Park",
+    "pages": "28\u201339",
+    "start": 28,
+    "status": "CONFIRMED person link / STRONG employer lock",
+    "types": [
+      "first-person transcript",
+      "corporate filings",
+      "address chronology"
+    ],
+    "keywords": "John Wiggins Brandie Park Black Diamond Atlanta interview transcript"
+  },
+  {
+    "section": "Master Backbone",
+    "title": "Brandie Park \u2192 Michael Sessions",
+    "pages": "40\u201349",
+    "start": 40,
+    "status": "CONFIRMED IN ARCHIVE",
+    "types": [
+      "podcast/interview notes",
+      "corporate filings",
+      "business profiles"
+    ],
+    "keywords": "Brandie Michael Sessions Marketing Endeavors Oxford Sean Clark"
+  },
+  {
+    "section": "Master Backbone",
+    "title": "Sessions \u2192 Cody Staton / TRIEC",
+    "pages": "50\u201359",
+    "start": 50,
+    "status": "STRONG",
+    "types": [
+      "address records",
+      "corporate filings",
+      "archive research"
+    ],
+    "keywords": "Sessions Cody Staton TRIEC 9450 Bryn Mawr"
+  },
+  {
+    "section": "Master Backbone",
+    "title": "TRIEC \u2192 Lefeld \u2192 League \u2192 Paletta",
+    "pages": "60\u201368",
+    "start": 60,
+    "status": "CONFIRMED / strong continuity",
+    "types": [
+      "archived social posts",
+      "corporate filings",
+      "company biographies",
+      "press release"
+    ],
+    "keywords": "TRIEC Lefeld M4I North 312 League Paletta Clear Vision"
+  },
+  {
+    "section": "Illinois Hubs & Fizzles",
+    "title": "600 Hunter Drive #250 Launch Hub",
+    "pages": "70\u201378",
+    "start": 70,
+    "status": "STRONG launch hub",
+    "types": [
+      "Illinois corporate filings",
+      "address chronology",
+      "campaign evidence"
+    ],
+    "keywords": "600 Hunter Keynorth MCS2 Midwest Chicago Business Strategies"
+  },
+  {
+    "section": "Illinois Hubs & Fizzles",
+    "title": "1211 W 22nd St Suite 905 Cluster",
+    "pages": "79\u201385",
+    "start": 79,
+    "status": "CONFIRMED cluster / parent gaps remain",
+    "types": [
+      "Illinois corporate filings",
+      "address history",
+      "Quill evidence"
+    ],
+    "keywords": "1211 W 22nd Suite 905 Keynorth Red Bay Three Point Quill"
+  },
+  {
+    "section": "Illinois Hubs & Fizzles",
+    "title": "CORConcepts \u2192 Impact Executives",
+    "pages": "86\u201391",
+    "start": 86,
+    "status": "CONFIRMED / VERY STRONG",
+    "types": [
+      "career records",
+      "corporate filings",
+      "campaign evidence",
+      "address continuity"
+    ],
+    "keywords": "CORConcepts Impact Adam Balsinger Gabrielle Corcoran Verizon Quill"
+  },
+  {
+    "section": "Illinois Hubs & Fizzles",
+    "title": "Illinois Fizzles & Branch Generators",
+    "pages": "92\u201395",
+    "start": 92,
+    "status": "Mixed / research leads",
+    "types": [
+      "corporate lifespans",
+      "company records",
+      "branch-generator leads"
+    ],
+    "keywords": "Three Point Impact Chicago Business Strategies Vivid KCS fizzles"
+  },
+  {
+    "section": "Filing Infrastructure",
+    "title": "Samantha Jackson / Meriam Corporate Services",
+    "pages": "97\u2013102",
+    "start": 97,
+    "status": "FILING INFRASTRUCTURE ONLY",
+    "types": [
+      "corporate filings",
+      "registered-agent records",
+      "incorporator records"
+    ],
+    "keywords": "Samantha Jackson Meriam corporate services filings registered agent incorporator"
+  },
+  {
+    "section": "Side Branches 01\u201307",
+    "title": "Bluefield Branch",
+    "pages": "104\u2013109",
+    "start": 104,
+    "status": "Archive lead",
+    "types": [
+      "corporate filings",
+      "personnel research",
+      "formation records"
+    ],
+    "keywords": "Marcus Mack Supreme Management John Palmer Wes Palmer NXT Level Bluefield"
+  },
+  {
+    "section": "Side Branches 01\u201307",
+    "title": "Birmingham Branch",
+    "pages": "110\u2013116",
+    "start": 110,
+    "status": "Archive lead / handoff open",
+    "types": [
+      "corporate records",
+      "personnel research",
+      "business profiles"
+    ],
+    "keywords": "Michael Figueroa MBA Direct Alphonso Johnson Birmingham Business Acquisitions Kevin Richardson Limitless"
+  },
+  {
+    "section": "Side Branches 01\u201307",
+    "title": "ABC Consultants Group / NX Direct",
+    "pages": "117\u2013123",
+    "start": 117,
+    "status": "STRONG structural / person gap",
+    "types": [
+      "corporate filings",
+      "exact-suite evidence",
+      "formation records"
+    ],
+    "keywords": "ABC Consultants Angel Jacome NX Direct Georgia Tower Creek Samantha Jackson"
+  },
+  {
+    "section": "Side Branches 01\u201307",
+    "title": "Brandie / AGI \u2192 South \u2192 Cape Reserve",
+    "pages": "124\u2013130",
+    "start": 124,
+    "status": "STRONG person continuity",
+    "types": [
+      "business profiles",
+      "personnel archive",
+      "corporate records"
+    ],
+    "keywords": "Brandie AGI Hannah Hoffman South Justin Hageman Cape Reserve"
+  },
+  {
+    "section": "Side Branches 01\u201307",
+    "title": "ICON Sales \u2192 JP Ellis \u2192 Monarch",
+    "pages": "131\u2013137",
+    "start": 131,
+    "status": "Archive / very strong structural",
+    "types": [
+      "archived social posts",
+      "company records",
+      "address evidence"
+    ],
+    "keywords": "ICON JP Ellis Monarch Sales 1145 Zonolite"
+  },
+  {
+    "section": "Side Branches 01\u201307",
+    "title": "ICON Sales \u2192 Lillian Wolfe \u2192 Wolfe Perseverance",
+    "pages": "138\u2013144",
+    "start": 138,
+    "status": "Archive / strong structural",
+    "types": [
+      "archived social posts",
+      "company records",
+      "address evidence"
+    ],
+    "keywords": "ICON Lillian Wolfe Wolfe Perseverance 1145 Zonolite"
+  },
+  {
+    "section": "Side Branches 01\u201307",
+    "title": "Sky Inc. \u2192 Hannah Hasinski \u2192 Ignite",
+    "pages": "145\u2013151",
+    "start": 145,
+    "status": "ARCHIVE / STRONG",
+    "types": [
+      "company profiles",
+      "personnel archive",
+      "business records"
+    ],
+    "keywords": "Sky Inc Hannah Hasinski Ignite Marketing Group JP Perry Jonathan Perry"
+  },
+  {
+    "section": "Side Branches 08\u201317",
+    "title": "Gateway \u2192 Daniel Giannone \u2192 W1N Sales",
+    "pages": "153\u2013159",
+    "start": 153,
+    "status": "STRONG downstream",
+    "types": [
+      "career records",
+      "company profiles",
+      "personnel continuity"
+    ],
+    "keywords": "Gateway Daniel Giannone W1N Sales"
+  },
+  {
+    "section": "Side Branches 08\u201317",
+    "title": "Riverfront \u2192 Gateway Upstream Research",
+    "pages": "160\u2013165",
+    "start": 160,
+    "status": "STRONG career-sequence lead",
+    "types": [
+      "career history",
+      "company records",
+      "upstream research"
+    ],
+    "keywords": "Riverfront Marketing Gateway Daniel Giannone Cincinnati"
+  },
+  {
+    "section": "Side Branches 08\u201317",
+    "title": "Sky Inc. \u2192 Victoria Wilegus \u2192 Providence Avenue",
+    "pages": "166\u2013172",
+    "start": 166,
+    "status": "PROBABLE upstream / downstream identity locked",
+    "types": [
+      "archived photo",
+      "personnel research",
+      "company records"
+    ],
+    "keywords": "Sky Victoria Wilegus Providence Avenue"
+  },
+  {
+    "section": "Side Branches 08\u201317",
+    "title": "5 North / North \u2192 Patricia Graells \u2192 Ibericus",
+    "pages": "173\u2013179",
+    "start": 173,
+    "status": "STRONG / NEAR-CONFIRMED",
+    "types": [
+      "regulatory filing",
+      "career profile",
+      "company biography"
+    ],
+    "keywords": "5 North North Patricia Graells Ibericus Cydcor New York"
+  },
+  {
+    "section": "Side Branches 08\u201317",
+    "title": "W1N \u2192 Caylie Surrena \u2192 Trinity Results",
+    "pages": "180\u2013185",
+    "start": 180,
+    "status": "STRONG / NEAR-PLACED",
+    "types": [
+      "company filings",
+      "personnel evidence",
+      "company profiles"
+    ],
+    "keywords": "W1N Caylie Surrena Trinity Results 1145 Zonolite"
+  },
+  {
+    "section": "Side Branches 08\u201317",
+    "title": "Banquet Executives / Peyton Timmermeyer",
+    "pages": "186\u2013191",
+    "start": 186,
+    "status": "OPEN / ACTIVE RESEARCH NODE",
+    "types": [
+      "company profiles",
+      "job listings",
+      "personnel association"
+    ],
+    "keywords": "Banquet Executives Peyton Timmermeyer Amazon Business"
+  },
+  {
+    "section": "Side Branches 08\u201317",
+    "title": "Evolution Sales \u2192 Jonah Mead-Vancort \u2192 First Coast",
+    "pages": "192\u2013198",
+    "start": 192,
+    "status": "CONFIRMED downstream / parent open",
+    "types": [
+      "Georgia filing",
+      "employee resume",
+      "company filing",
+      "address evidence"
+    ],
+    "keywords": "Evolution Sales Jonah Mead-Vancort First Coast 1145 Zonolite LJC"
+  },
+  {
+    "section": "Side Branches 08\u201317",
+    "title": "Broad Street / Philadelphia Marketing Executives \u2192 Jordan Mitchell Group",
+    "pages": "199\u2013204",
+    "start": 199,
+    "status": "IDENTITY CONTINUITY / probable successor",
+    "types": [
+      "BBB records",
+      "employee record",
+      "domain/email evidence"
+    ],
+    "keywords": "Broad Street Philadelphia Marketing Executives Jordan Mitchell Group Blue Bell"
+  },
+  {
+    "section": "Side Branches 08\u201317",
+    "title": "Walker Marketing \u2192 524 Executives",
+    "pages": "205\u2013210",
+    "start": 205,
+    "status": "IDENTITY CONTINUITY / ARCHIVE STRONG",
+    "types": [
+      "BBB records",
+      "company records",
+      "archive research"
+    ],
+    "keywords": "Walker Marketing Brandon Walker 524 Executives Ohio"
+  },
+  {
+    "section": "Side Branches 08\u201317",
+    "title": "Rockland \u2192 Andrew Breuninger \u2192 Jonathan Wesley",
+    "pages": "211\u2013216",
+    "start": 211,
+    "status": "STRONG person continuity / company relation open",
+    "types": [
+      "archived business record",
+      "press releases",
+      "company history"
+    ],
+    "keywords": "Rockland Andrew Breuninger Jonathan Wesley Troy Michigan T-Mobile"
+  },
+  {
+    "section": "Side Branches 08\u201317",
+    "title": "Integra \u2192 Meghan Wilson \u2192 Wolf Management",
+    "pages": "217\u2013222",
+    "start": 217,
+    "status": "STRONG / NEAR-CONFIRMED",
+    "types": [
+      "company website",
+      "LinkedIn/personnel records",
+      "recommendation",
+      "business profile"
+    ],
+    "keywords": "Integra Joseph Gills Meghan Wilson Wolf Management Charlotte St Louis"
+  },
+  {
+    "section": "Cleanup Nodes",
+    "title": "C3 Orlando",
+    "pages": "224\u2013228",
+    "start": 224,
+    "status": "UNPLACED",
+    "types": [
+      "Idealist company profile",
+      "Florida name-collision check",
+      "operating profile"
+    ],
+    "keywords": "C3 Orlando direct marketing donor acquisition"
+  },
+  {
+    "section": "Cleanup Nodes",
+    "title": "GES Consulting Enterprise",
+    "pages": "229\u2013233",
+    "start": 229,
+    "status": "DIRECTIONAL / parent open",
+    "types": [
+      "company website/archive",
+      "Glassdoor reviews",
+      "career/ownership research"
+    ],
+    "keywords": "GES Consulting Enterprise Brian Lee Woodinville Seattle Comcast Xfinity"
+  },
+  {
+    "section": "Cleanup Nodes",
+    "title": "3MP Atlanta \u2192 William Ryckman \u2192 Ryckatyk",
+    "pages": "234\u2013238",
+    "start": 234,
+    "status": "STRONG / NEAR-CONFIRMED",
+    "types": [
+      "career profile",
+      "company profiles",
+      "ownership records"
+    ],
+    "keywords": "3MP Atlanta William Ryckman Ryckatyk Michael Palomba"
+  },
+  {
+    "section": "Cleanup Nodes",
+    "title": "C-Bus Voyage \u2192 Kevin Fuller \u2192 ICON Sales Team",
+    "pages": "239\u2013244",
+    "start": 239,
+    "status": "STRONG company-builder continuity",
+    "types": [
+      "company biography",
+      "business listing",
+      "tenant evidence",
+      "employee reviews"
+    ],
+    "keywords": "C-Bus Voyage Kevin Fuller ICON Columbus Atlanta"
+  },
+  {
+    "section": "Cleanup Nodes",
+    "title": "Joseph Gills / Integra Upstream",
+    "pages": "245\u2013250",
+    "start": 245,
+    "status": "CONFIRMED principal / upstream open",
+    "types": [
+      "BBB records",
+      "company website",
+      "job listings",
+      "conference clue"
+    ],
+    "keywords": "Joseph Gills Integra Sales Associates St Louis Amazon Business"
+  },
+  {
+    "section": "Cleanup Nodes",
+    "title": "One Source Provider / OSP Connect Correction",
+    "pages": "251\u2013256",
+    "start": 251,
+    "status": "CORRECTED / strong personnel overlap",
+    "types": [
+      "company website",
+      "Linktree identity check",
+      "LinkedIn career history",
+      "secondary review"
+    ],
+    "keywords": "One Source Provider OSP Connect Dean Elali Larissa Lawson Victoria Freels Cydcor Dearborn"
+  }
+]
